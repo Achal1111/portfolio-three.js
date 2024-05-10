@@ -185,7 +185,7 @@ const projects = [
       },
     ],
     image: twitterclone,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Achal1111",
   },
   {
     name: "Crypto Hunter",
@@ -206,7 +206,7 @@ const projects = [
       },
     ],
     image: cryptohunter,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Achal1111",
   },
   {
     name: "Fitness Workouts",
@@ -227,7 +227,7 @@ const projects = [
       },
     ],
     image: fitnessapp,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Achal1111",
   },
 ];
 
